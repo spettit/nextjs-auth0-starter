@@ -4,8 +4,8 @@
             "AUTH0_DOMAIN": "nextjs-app.eu.auth0.com",
             "AUTH0_CLIENT_ID": "QCg6FE6YW1BJjzKO3Wlg0PxWVCbDixTp",
             "AUTH0_CLIENT_SECRET": "E3GjUu5Pgxer5TgNmyp9lhtK_1Xz0S6r5Tnq6RlpJ4Ye1M6nEK4fS4a6DB6FXlFl",
-            "REDIRECT_URI": "https://next-auth-iota.now.sh/api/callback",
-            "POST_LOGOUT_REDIRECT_URI": "https://next-auth-iota.now.sh",
+            "REDIRECT_URI": "https://nextjs-auth0-starter.now.sh/api/callback",
+            "POST_LOGOUT_REDIRECT_URI": "https://nextjs-auth0-starter.now.sh",
             "SESSION_COOKIE_SECRET": "E3GjUu5Pgxer5TgNmyp9lhtK_1Xz0S6r5Tnq6RlpJ4Ye1M6nEK4fS4a6DB6FXlFl"
         }
     }
