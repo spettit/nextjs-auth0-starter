@@ -1,5 +1,5 @@
 import MainLayout from "../components/layout/MainLayout";
-import { useFetchUser } from "../utils/User";
+import { useFetchUser } from "../utils/userContext";
 import Router from "next/router";
 
 export default function Profile() {

@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
-import { UserProvider, useFetchUser } from "../../utils/User";
+import { UserProvider, useFetchUser } from "../../utils/userContext";
 
 const MainLayout = (props) => {
   const { user, loading } = useFetchUser();

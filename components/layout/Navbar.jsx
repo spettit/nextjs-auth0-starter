@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { useFetchUser } from "../../utils/user";
+import { useFetchUser } from "../../utils/userContext";
 
 const Navbar = () => {
   const { user, loading } = useFetchUser();
