@@ -1,0 +1,16 @@
+nextjs-auth0-starter
+
+code mochi
+https://youtu.be/vrj9gCSjzw0
+
+
+
+test@test.com 123qweASD
+s.p@mac.com 123qweASD
+
+auth0 example
+https://github.com/auth0/nextjs-auth0/tree/master/examples/basic-example
+
+
+use now.json to add environment variables to zeit now
+
