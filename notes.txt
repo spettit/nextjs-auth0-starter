@@ -15,3 +15,5 @@ https://github.com/auth0/nextjs-auth0/tree/master/examples/basic-example
 use now.json to add environment variables to zeit now
 
 this app is linked through github to zeit now
+
+https://nextjs-auth0-starter.now.sh
